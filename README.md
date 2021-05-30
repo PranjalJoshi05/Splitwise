@@ -1,3 +1,7 @@
+# About App
+
+A web application to simplify payments of a group.
+
 # Prerequisite
 
 Node.js
